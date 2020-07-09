@@ -1,11 +1,6 @@
 {
 	"painting": [
 		{
-			"image": "http://data.mavo.io/portfolio/images/pasted-image-1494464667397.png",
-			"name": "Carwash",
-			"@type": "Painting"
-		},
-		{
 			"image": "http://data.mavo.io/portfolio/images/pasted-image-1494528264937.png",
 			"name": "Muck Mouth",
 			"@type": "Painting"
@@ -13,6 +8,11 @@
 		{
 			"image": "http://data.mavo.io/portfolio/images/pasted-image-1494528646446.png",
 			"name": "Fishwall",
+			"@type": "Painting"
+		},
+		{
+			"image": "https://cdn.jsdelivr.net/gh/Samvanst/data@64bcb65699bd4efe075a775b5553dc826f9ce696/portfolio/images/vlinder.jpg",
+			"name": "Carwash",
 			"@type": "Painting"
 		},
 		{
